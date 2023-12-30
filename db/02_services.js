@@ -1,0 +1,80 @@
+const services =[
+  {
+    _id:  "612f008d506de80045c0334b" ,
+    name: "High pressure rinse",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f00a7506de80045c0334e" ,
+    name: "Pre-soak",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f00b3506de80045c03351" ,
+    name: "Single top brush",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f015f99d6b200456d3ac0" ,
+    name: "10 blowers",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f02c526a4b900463c1b9c" ,
+    name: "2 top brushes",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f02da26a4b900463c1b9f" ,
+    name: "Single foam",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f02e226a4b900463c1ba2" ,
+    name: "15 blowers",
+    price: 0,
+    canBeExtra: false,
+  },
+  {
+    _id:  "612f02fd26a4b900463c1ba5" ,
+    name: "Lava Soap",
+    price: 50,
+    canBeExtra: true,
+  },
+  {
+    _id:  "612f030f26a4b900463c1ba8" ,
+    name: "Triple Foam",
+    price: 50,
+    canBeExtra: true,
+  },
+  {
+    _id:  "612f0367fc76940045079152" ,
+    name: "Super Wax",
+    price: 50,
+    canBeExtra: true,
+  },
+  {
+    _id:  "612f037cfc76940045079155" ,
+    name: "Ceramic",
+    price: 60,
+    canBeExtra: true,
+  },
+  {
+    _id:  "612f0388fc76940045079158" ,
+    name: "Tire Shine",
+    price: 70,
+    canBeExtra: true,
+  },
+  {
+    _id:  "62b5538161a6f66a03f0bf24" ,
+    name: "Buff n Shine",
+    price: 80,
+    canBeExtra: true,
+  },
+];
