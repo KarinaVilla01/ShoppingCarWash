@@ -404,6 +404,8 @@ function generateComparisonTable() {
             tr.appendChild(tdMembership);
         });
 
+
+
         tbody.appendChild(tr);
     });
 }
